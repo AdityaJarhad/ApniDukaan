@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PG-DAC\\.NET Project\\ApniDukaan\\ApniDukaan\\ApniDukaan.csproj": {}
+    "D:\\PG-DAC\\dotNET\\ApniDukaan\\ApniDukaan\\ApniDukaan.csproj": {}
   },
   "projects": {
-    "D:\\PG-DAC\\.NET Project\\ApniDukaan\\ApniDukaan\\ApniDukaan.csproj": {
+    "D:\\PG-DAC\\dotNET\\ApniDukaan\\ApniDukaan\\ApniDukaan.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PG-DAC\\.NET Project\\ApniDukaan\\ApniDukaan\\ApniDukaan.csproj",
+        "projectUniqueName": "D:\\PG-DAC\\dotNET\\ApniDukaan\\ApniDukaan\\ApniDukaan.csproj",
         "projectName": "ApniDukaan",
-        "projectPath": "D:\\PG-DAC\\.NET Project\\ApniDukaan\\ApniDukaan\\ApniDukaan.csproj",
+        "projectPath": "D:\\PG-DAC\\dotNET\\ApniDukaan\\ApniDukaan\\ApniDukaan.csproj",
         "packagesPath": "C:\\Users\\jarha\\.nuget\\packages\\",
-        "outputPath": "D:\\PG-DAC\\.NET Project\\ApniDukaan\\ApniDukaan\\obj\\",
+        "outputPath": "D:\\PG-DAC\\dotNET\\ApniDukaan\\ApniDukaan\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jarha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -45,6 +45,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

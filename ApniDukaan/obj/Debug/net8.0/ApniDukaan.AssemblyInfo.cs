@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApniDukaan")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d86a98f44725caaabf1f71f6399f12bfe1a5911")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2197ff82d1e2bb55e024e8897de650913fc4680")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApniDukaan")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApniDukaan")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
